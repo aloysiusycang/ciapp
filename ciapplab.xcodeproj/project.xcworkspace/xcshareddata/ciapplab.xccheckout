@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>9966B717-D8BC-4ABF-868C-72DFD4214EC6</string>
+	<string>66DEA7C4-2DE2-4DCB-9979-9947677D7547</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ciapplab</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9E892EFC-851E-4F41-9775-7391C7113E12</key>
-		<string>https://github.com/aloysiusycang/ciapplab.git</string>
+		<key>66333531-9650-4148-8284-B11EA2BD6094</key>
+		<string>https://github.com/aloysiusycang/ciapp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ciapplab.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9E892EFC-851E-4F41-9775-7391C7113E12</key>
+		<key>66333531-9650-4148-8284-B11EA2BD6094</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/aloysiusycang/ciapplab.git</string>
+	<string>https://github.com/aloysiusycang/ciapp.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9E892EFC-851E-4F41-9775-7391C7113E12</string>
+	<string>66333531-9650-4148-8284-B11EA2BD6094</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9E892EFC-851E-4F41-9775-7391C7113E12</string>
+			<string>66333531-9650-4148-8284-B11EA2BD6094</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ciapplab</string>
+			<string>ciapp</string>
 		</dict>
 	</array>
 </dict>
